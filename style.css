@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    background-color: grey;
+    height:150vh;
+    width:150vw;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    background-color: lightseagreen;
+    justify-content: center;
+    width:75vw;
+    max-width: fit-content;
+    height:65vh;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 5px 4px;
+
+
+}
+
+.score{
+    font: x-large;
+    font-weight: bolder;
+}
