@@ -26,4 +26,4 @@ The features of this project are a timer that will index down. It has a start bu
 
 I named this project the Quiz-of-doom because it seems that way right now but I have the oppertunity to master vanilla javascript. When I finish this project to my standards I will rename it appriopriatly. 
 
-
+https://github.com/JeepingCoder/Quiz-of-doom/blob/main/Screen%20Shot%202022-11-07%20at%209.41.29%20PM.png
